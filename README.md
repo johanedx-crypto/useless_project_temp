@@ -44,6 +44,8 @@ For Software:
 # Installation
 
 ```bash
+git clone https://github.com/johanedx-crypto/useless_project_temp
+cd useless_project_temp
 npm install
 ```
 
